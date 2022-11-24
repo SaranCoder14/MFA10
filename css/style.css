@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&family=Patrick+Hand+SC&family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300&family=Outfit:wght@300&family=Patrick+Hand+SC&family=Raleway&display=swap');
+body{
+
+    padding: 350px;
+    padding-left: 550px;
+
+    background-color:rgba(13,26,45,255);
+}
+.all{
+
+    background-color: rgba(21,39,63,255);
+    margin-left: 30px;
+    margin-right: 100px;
+    border-radius:10px;
+}
+.img1 img{
+
+    width: 340px;
+    margin-left: 25px;
+    margin-top: 20px;
+    border-radius: 10px;
+    
+}
+.text h2{
+
+    color: white;
+    margin-left: 20px;
+    font-family: 'Outfit', sans-serif;
+
+}
+.text p{
+    color:rgba(102,125,158,255);
+    margin-left: 20px;
+    font-family: 'Assistant', sans-serif;
+font-family: 'Outfit', sans-serif;
+font-family: 'Patrick Hand SC', cursive;
+font-family: 'Raleway', sans-serif;
+}
+.text h3{
+    color:rgba(56,211,221,255);
+    margin-left: 20px;
+}
+.icon1{
+    display: flex;
+    margin-right: 100px;
+}
+.icon1 h3{
+    margin-right: 40px;
+    width: 100px;
+}
+.icon1 img{
+    height: 20px;
+    margin-left: 55px;
+    margin-top: 17px;
+}
+.time{
+    display: flex;
+    justify-content: space-evenly;
+}
+.icon2{
+    display: flex;
+    justify-content: space-around;
+}
+.icon2 img{
+    height:20px;
+    margin-top:20px ;
+    margin-right: 10px;
+}
+.icon2 h4{
+    color:rgba(102,125,158,255);
+    margin-right: 40px;
+    width: 80px;
+}
+.foot{
+    display:flex;
+
+}
+.foot img{
+    border: 2px solid white;
+    border-radius: 50%;
+    width: 40px;
+    margin-left: 20px;
+    height:40px;
+    margin-top: 10px;
+    
+}
+.foot p{
+
+    font-family: 'Assistant', sans-serif;
+    margin-top: 18px;
+    font-size: 20px;
+    color: white;
+    margin-left: 3px;
+
+
+}
+.foot h3{
+    color:rgba(102,125,158,255);
+    font-family: 'Assistant', sans-serif;
+    margin-left: 20px;
+
+}
+.te{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    
+}
+hr{
+    color: hsl(217, 54%, 11%);
+    border: 0.5px solid hsl(215, 51%, 70%);
+    width: 350px;
+
+}
+.day{
+
+}
