@@ -51,6 +51,8 @@ font-family: 'Raleway', sans-serif;
 }
 .icon1 img{
     height: 20px;
+    position: relative;
+    left: 10px;
     margin-left: 55px;
     margin-top: 17px;
 }
